@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h89r3faj0-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/h89r3faj0-go
